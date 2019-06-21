@@ -1,4 +1,4 @@
-# Kanban
+# Kanban Layout with Draggable Cards in Angular
 
 [![Application Design Illustration](/src/assets/thumbnail.png)](https://youtu.be/YGCDAXFWAZo)
 
