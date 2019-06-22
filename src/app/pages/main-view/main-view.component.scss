@@ -80,6 +80,7 @@
 
 .tasks-container {
     flex-grow: 1;
+    overflow-y: auto; 
 }
 
 .task {
